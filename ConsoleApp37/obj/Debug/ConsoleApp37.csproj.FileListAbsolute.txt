@@ -19,3 +19,10 @@ C:\Users\yeasi\OneDrive\Desktop\My Code\Quran Search Engine\ConsoleApp37\obj\Deb
 C:\Users\yeasi\OneDrive\Desktop\My Code\Quran Search Engine\ConsoleApp37\bin\Debug\ConsoleApp37.exe.config
 C:\Users\yeasi\OneDrive\Desktop\My Code\Quran Search Engine\ConsoleApp37\bin\Debug\ConsoleApp37.exe
 C:\Users\yeasi\OneDrive\Desktop\My Code\Quran Search Engine\ConsoleApp37\bin\Debug\ConsoleApp37.pdb
+E:\Google Drive\Learning\GitHub\Quran Search Engine\ConsoleApp37\bin\Debug\ConsoleApp37.exe.config
+E:\Google Drive\Learning\GitHub\Quran Search Engine\ConsoleApp37\bin\Debug\ConsoleApp37.exe
+E:\Google Drive\Learning\GitHub\Quran Search Engine\ConsoleApp37\bin\Debug\ConsoleApp37.pdb
+E:\Google Drive\Learning\GitHub\Quran Search Engine\ConsoleApp37\obj\Debug\ConsoleApp37.csprojAssemblyReference.cache
+E:\Google Drive\Learning\GitHub\Quran Search Engine\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.CoreCompileInputs.cache
+E:\Google Drive\Learning\GitHub\Quran Search Engine\ConsoleApp37\obj\Debug\ConsoleApp37.exe
+E:\Google Drive\Learning\GitHub\Quran Search Engine\ConsoleApp37\obj\Debug\ConsoleApp37.pdb

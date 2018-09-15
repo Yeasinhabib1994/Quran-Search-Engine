@@ -14,6 +14,9 @@ namespace ConsoleApp37
     {
         static void Main(string[] args)
         {
+            if (Directory.Exists("quran"))
+                Directory.Delete("quran", true);
+            Console.WriteLine("Loadin All Verses");
             String zipPath = "quran-verse-by-verse-text.zip";
             String extractPath = "quran";
             ZipFile.ExtractToDirectory(zipPath, extractPath);
