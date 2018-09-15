@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Text.RegularExpressions;
+using System.IO.Compression;
+
 
 namespace ConsoleApp37
 {
@@ -12,6 +14,10 @@ namespace ConsoleApp37
     {
         static void Main(string[] args)
         {
+            String zipPath = "quran-verse-by-verse-text.zip";
+            String extractPath = "quran";
+            ZipFile.ExtractToDirectory(zipPath, extractPath);
+
             string[] documents = System.IO.Directory.GetFiles("quran");
             string[] verse = new string[documents.Length];
 
@@ -46,6 +52,8 @@ namespace ConsoleApp37
             }
 
             Console.WriteLine("found " + found + " times.");
+
+            Directory.Delete("quran", true);
         }
     }
 }
